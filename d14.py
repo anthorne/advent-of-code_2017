@@ -1,4 +1,5 @@
 # Advent of Code - 2017 - day 14
+# TODO: Fix solution for part 2.
 import pygame
 import d14_knothash
 
